@@ -1,18 +1,29 @@
+
 import React from 'react';
+import { Card, Col } from 'react-bootstrap';
+import './service.css'
 
 const Service = (props) => {
-    const { name, price, img, seats } = props.service;
-    const serviceStyle = {
-        border: '4px solid blue',
-        padding: '10px',
-        borderRadius: '10px'
-    }
+    const { name, price, img, seats, details } = props.service;
     return (
-        <div style={serviceStyle}>
-            <img className="w-50 h-50" src={img} alt="" />
-            <h2>Course name :{name}</h2>
-            <h4>price:{price}</h4>
-            <p><small>Available Seats:{seats}</small></p>
+        <div>
+            <Col>
+                <Card>
+                    <Card.Img variant="top" className='img-fluid' src={img} />
+                    <h4>Course Price:{price}</h4>
+                    <Card.Body>
+                        <Card.Title> Course: {name}</Card.Title>
+                        <p>
+                            {details}
+                        </p>
+                        <p><small>Seats:{seats}</small>
+                        </p>
+                        <button>BuY</button>
+
+                    </Card.Body>
+                </Card>
+            </Col>
+
 
         </div>
     );
