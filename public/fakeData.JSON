@@ -1,0 +1,74 @@
+[
+    {
+        "key": 1,
+        "name": "Affiliate Marketing",
+        "price": 550,
+        "details": "This  affiliate marketing course will teach you how to start affiliate marketing",
+        "seats": 23,
+        "img": "https://image.freepik.com/free-photo/overworked-businesswoman-typing-financial-statistics-laptop-sitting-desk-table-startup-company-office-late-night_482257-2324.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Graphics Design",
+        "price": 250,
+        "details": "The duration of certification course in graphic designing may take 3 to 6 months.",
+        "seats": 26,
+        "img": "https://image.freepik.com/free-photo/designer-work_53876-13192.jpg"
+    },
+    {
+        "key": 3,
+        "name": "Web Development",
+        "price": 350,
+        "details": "You can work as a freelancer, and make websites for clients and earn also you can",
+        "seats": 28,
+        "img": "https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Search Engine Optimization(SEO)",
+        "price": 450,
+        "details": "It takes 1-3 months to learn the basics of SEO. The basics of search engine optimization",
+        "seats": 20,
+        "img": "https://image.freepik.com/free-photo/searching-engine-optimizing-seo-browsing-concept_53876-64993.jpg"
+    },
+    {
+        "key": 5,
+        "name": "Article Writing",
+        "price": 650,
+        "details": "you are a skillful freelance writer or a beginner with no experience, anyone can make money.",
+        "seats": 29,
+        "img": "https://image.freepik.com/free-photo/content-concept-laptop-screen_53876-13531.jpg"
+    },
+    {
+        "key": 6,
+        "name": "Virtual Assitance",
+        "price": 750,
+        "details": "Virtual Assistant Training Course is designed to provide you with a road-map to become successful virtual assistant ",
+        "seats": 10,
+        "img": "https://image.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg"
+    },
+    {
+        "key": 7,
+        "name": "Data Entry",
+        "price": 250,
+        "details": "Set up a free profile to showcase your skills, experience, and desired pay rate to clients. You choose the payment method",
+        "seats": 29,
+        "img": "https://image.freepik.com/free-photo/closeup-hands-using-computer-laptop-with-screen-showing-analysis-data_53876-23014.jpg"
+    },
+    {
+        "key": 8,
+        "name": "word press",
+        "price": 950,
+        "details": "This six month online program focuses on creative sound design, using Native Instrument`s Komplete & Reaktor packages.",
+        "seats": 30,
+        "img": "https://image.freepik.com/free-photo/music-genres-style-design-eletronic-jazz-rock-concept_53876-123800.jpg"
+    },
+    {
+        "key": 9,
+        "name": "Email Marketing",
+        "price": 150,
+        "details": "The use of email within your marketing efforts to promote a business products and services, as well as incentivize customer loyalty",
+        "seats": 4,
+        "img": "https://image.freepik.com/free-photo/interesting-email-from-my-boss_329181-15152.jpg"
+    }
+]
