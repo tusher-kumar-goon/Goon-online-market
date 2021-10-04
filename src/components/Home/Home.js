@@ -23,7 +23,7 @@ const Home = () => {
 
                 <div className='banner-container'>
 
-                    <Row xs={1} md={2} className="g-4 mx-2">
+                    <Row xs={1} md={4} className="g-1 mx-1 home-card">
                         {
                             banners.map(banner => <Top
                                 key={banner.key}

@@ -9,24 +9,23 @@ const Service = (props) => {
     return (
         <div>
             <Col>
-                <Card>
+                <Card >
                     <Card.Img variant="top" className='img-fluid' src={img} alt />
-                    <h4>Course Price:{price}</h4>
+                    <h4 className="ms-2">Course Price:$ {price}</h4>
                     <Card.Body>
                         <Card.Title> Course: {name}</Card.Title>
                         <p>
                             {details}
                         </p>
-                        <p><small>Seats:{seats}</small>
-                        </p>
-                        <Button variant="warning">Details</Button>
+                        <p>Seats:{seats} </p>
+                        <Button className='btn-all'>BUY NOW</Button>
 
                     </Card.Body>
                 </Card>
             </Col>
 
 
-        </div>
+        </div >
     );
 };
 

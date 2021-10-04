@@ -6,7 +6,7 @@ import './Header.css'
 const Header = () => {
     const activeStyle = {
         fontWeight: "bold",
-        color: "red",
+        color: "indigo",
     }
 
     return (

@@ -17,8 +17,8 @@ const Services = () => {
     return (
         <div>
             <h1 className="card-total">We have Total {services.length} courses  </h1>
-            <div className='service-conatiner '>
-                <Row xs={1} md={3} className="g-4 mx-2">
+            <div className='service-conatiner  '>
+                <Row xs={1} md={3} className="g-4 mx-2 ">
                     {
                         services.map(service => <Service
                             key={service.key}

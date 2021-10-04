@@ -7,7 +7,7 @@ import { Row, Col, Card } from 'react-bootstrap';
 const Instructor = () => {
     return (
         <div>
-            <h1 className='course-demo'>Our Instructor</h1>
+            <h3 className='course-demo'>Our Instructor</h3>
             <Row xs={1} md={2} className="g-4 mt-5 mx-3">
                 <Col>
                     <Card>
