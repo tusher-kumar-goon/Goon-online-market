@@ -5,3 +5,12 @@
 .course-demo{
     text-align: center;
 }
+.course-demo{
+    color: white;
+    background-color: rgb(28, 2, 61);
+    padding: 10px;
+    margin-left:300px ;
+    margin-right:300px ;
+    margin-top: 3px;
+    border-radius: 20px;
+}
