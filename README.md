@@ -1,6 +1,6 @@
 # GOON Online Marketing Courses
 
-My live site link https://musing-poitras-1f408f.netlify.app/home
+My live site link 
 
 *This a Online Marketing Learning course 
 *You can fine 9 Types  course here.
