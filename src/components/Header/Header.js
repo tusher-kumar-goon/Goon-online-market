@@ -22,15 +22,22 @@ const Header = () => {
                 to="/home"
             >Home</NavLink>
 
-            <NavLink className='nav-bar'
-                activeStyle={activeStyle}
-                to="/about"
-            >About</NavLink>
+
 
             <NavLink className='nav-bar'
                 activeStyle={activeStyle}
                 to="/services"
             >Services</NavLink>
+
+            <NavLink className='nav-bar'
+                activeStyle={activeStyle}
+                to="/instructor"
+            >Instructor</NavLink>
+
+            <NavLink className='nav-bar'
+                activeStyle={activeStyle}
+                to="/about"
+            >About</NavLink>
         </nav >
 
     );
