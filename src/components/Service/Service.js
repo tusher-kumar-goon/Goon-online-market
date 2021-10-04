@@ -2,6 +2,7 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import './service.css'
+import { Button } from 'react-bootstrap';
 
 const Service = (props) => {
     const { name, price, img, seats, details } = props.service;
@@ -18,7 +19,7 @@ const Service = (props) => {
                         </p>
                         <p><small>Seats:{seats}</small>
                         </p>
-                        <button>BuY</button>
+                        <Button variant="warning">Details</Button>
 
                     </Card.Body>
                 </Card>

@@ -1,0 +1,19 @@
+footer {
+    background-color: rgba(3, 2, 70, 0.993);
+    padding: 40px;
+}
+
+.footer-text-area {
+    text-align: center;
+    color: white;
+}
+.orange-color{
+    color:darkorange;
+}
+.Btn-footer{
+    margin-right: 5px;
+    background-color: darksalmon;
+}
+.footer-container{
+    margin-top: 20px;
+}
