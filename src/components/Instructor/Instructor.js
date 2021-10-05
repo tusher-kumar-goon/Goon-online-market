@@ -8,6 +8,9 @@ const Instructor = () => {
     return (
         <div>
             <h3 className='course-demo'>Our Instructor</h3>
+            <div className='instructor-container'>
+                <p>Find inspiration and learn how to start a online course. With these Skillshare classes, you can explore a wide range of techniques to start your own coading, php c+ or Javascript content . Whether you’re a beginner looking for step-by-step instruction, or you’re an experienced writer looking to expand your client, you can take your skills to new places. With online tutorials taught by experts, you can learn how to make the most with digital tools like Wordpress, Tumblr and Medium. On Skillshare, you’ll find classes broken into short lessons, along with content marketing courses where you can get feedback from a community of creators.</p>
+            </div>
             <Row xs={1} md={2} className="g-4 mt-5 mx-3">
                 <Col>
                     <Card>

@@ -18,3 +18,9 @@
    
     border-radius: 10px;
 }
+.about-down{
+    margin: 30px;
+    background-color: rgba(3, 3, 58, 0.959);
+    border-radius: 10px;
+    color: white;
+}

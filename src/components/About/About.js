@@ -23,6 +23,26 @@ const About = () => {
                     < img className='banner-img about-img' src={img} />
                 </div>
             </div >
+            <div className='row about-down'>
+                <div className="col-md-4">
+                    <h4>Members to</h4>
+                    <p>Get inspired.
+                        Learn new skills.
+                        Make discoveries.</p>
+                </div>
+                <div className='col-md-4'>
+                    <h4>Teachers to</h4>
+                    <p>Share expertise.
+                        Earn money.
+                        Give back.</p>
+                </div>
+                <div className='col-md-4'>
+                    <h4>Employees to</h4>
+                    <p>Be curious.
+                        Make an impact.
+                        Live a full life.</p>
+                </div>
+            </div>
 
         </div>
     );

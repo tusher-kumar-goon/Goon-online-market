@@ -47,7 +47,7 @@ const Footer = () => {
 
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <ul class="social-icons">
-
+                                <li><i class="fab fa-facebook"></i></li>
                             </ul>
                         </div>
                     </div>
