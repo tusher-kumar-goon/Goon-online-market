@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div>
             <div>
-                < img className='banner-img' src={img} />
+                < img className='banner-img' src={img} alt="" />
             </div>
             <div>
 
