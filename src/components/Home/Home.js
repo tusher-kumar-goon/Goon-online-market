@@ -19,7 +19,7 @@ const Home = () => {
             </div>
             <div>
 
-                <h4 className="course-demo">Demo Course Here</h4>
+                <h4 className="course-demo">Demo All Course Here</h4>
 
                 <div className='banner-container'>
 
